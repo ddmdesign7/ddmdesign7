@@ -1,69 +1,122 @@
-# Hey there! 👋 I'm Eedris
 
-Welcome to my GitHub profile! I'm passionate about scaling revenue through intelligent automation, predictive analytics, and seamless integrations.
 
----
+\<!--   DDMGURU / ItzDDM — GitHub Profile README   Visual direction: midnight • violet • electric cyan -->
 
-## 🚀 About Me
+\<div align="center">
 
-I specialize in building **digital sales automation** solutions and **AI-driven analytics** platforms that help businesses scale with predictability and control.
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:080612,45:30205F,100:087E9B&height=230&section=header&text=DDMGURU%20%7C%20ItzDDM&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVITY%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20INNOVATION&descAlignY=60&descSize=15](https://capsule-render.vercel.app/api?type=waving\&color=0:080612,45:30205F,100:087E9B\&height=230\&section=header\&text=DDMGURU%20%7C%20ItzDDM\&fontSize=46\&fontColor=FFFFFF\&fontAlignY=38\&desc=CREATIVITY%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20INNOVATION\&descAlignY=60\&descSize=15)" width="100%" alt="DDMGURU and ItzDDM cosmic banner" />
 
-- 🌱 Currently learning advanced digital sales automation and AI-driven analytics
-- 💼 Building **Digital Manager Guru** — a robust service layer for online sales operations
-- 🎯 Mission: Helping businesses scale revenue with predictability, control, and intelligent integrations
-- ⚡ Fun fact: I love simplifying complex sales processes into seamless flows
+# Hey, I'm Eedris 👋
 
----
+&#x20; \<a href="[https://portfolio-cosmic-v2.great-site.net/](https://portfolio-cosmic-v2.great-site.net/)">     \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=9B8CFF&center=true&vCenter=true&width=720&lines=Creative+Digital+Designer;UX%2FUI+%7C+Web+Experiences;Digital+Innovation+%26+Automation;Turning+Ideas+Into+Digital+Experiences](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=19\&duration=3000\&pause=900\&color=9B8CFF\&center=true\&vCenter=true\&width=720\&lines=Creative+Digital+Designer;UX%2FUI+%7C+Web+Experiences;Digital+Innovation+%26+Automation;Turning+Ideas+Into+Digital+Experiences)" alt="Animated introduction" />   \</a>
 
-## 🛠️ Skills & Tools
+&#x20; \<a href="[https://portfolio-cosmic-v2.great-site.net/](https://portfolio-cosmic-v2.great-site.net/)">     \<img src="[https://img.shields.io/badge/MAIN_PORTFOLIO-Explore-7657E8?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/MAIN_PORTFOLIO-Explore-7657E8?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Main portfolio" />   \</a>   \<a href="[https://dmanifestor.github.io/itz-ddm/index.html](https://dmanifestor.github.io/itz-ddm/index.html)">     \<img src="[https://img.shields.io/badge/ITZDDM-Creative_World-0789A6?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/ITZDDM-Creative_World-0789A6?style=for-the-badge\&logo=figma\&logoColor=white)" alt="ItzDDM portfolio" />   \</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-00A1F1?style=for-the-badge&logo=microsoft-dynamics-365&logoColor=white)
+*Design with purpose. Build with passion. Innovate without limits.*
+
+\</div>
 
 ---
 
-## 📂 Featured Projects
+## ✦ About Me
 
-### 🔹 **DDM Guru Platform**
-A comprehensive online sales solution with zero fees, intelligent tracking, and 80+ integrations for acquisition, billing, and post-sale automation.
+I'm **Eedris**, also known as **DDMGURU** and **ItzDDM** — a creative digital professional interested in the space where **design, technology and business meet**.
 
-### 🔹 **Revenue Engine Automation**
-Built workflows to connect sales, subscriptions, and campaign tracking into a single operational flow.
+I enjoy shaping ideas into clear, engaging digital experiences: from visual identity and user interfaces to websites, practical digital tools and smarter business workflows.
 
-### 🔹 **Predictive Analytics Dashboard**
-Designed real-time metrics dashboards to monitor ROI, customer lifetime value, and subscription health.
+- 🎨 **Design:** UX/UI, visual communication, branding and digital presentation.
+- 💻 **Web:** Responsive interfaces and modern web experiences.
+- ⚙️ **Digital solutions:** Business workflows, integrations and process improvement.
+- 🤖 **Innovation:** Exploring AI-assisted tools, analytics and automation.
+- 🚀 **Focus:** Making digital experiences useful, intuitive and visually memorable.
 
----
+## ✧ What I Bring Together
 
-## 📊 GitHub Stats
+| Creative thinking         | Digital building        | Business-minded innovation   |
+| ------------------------- | ----------------------- | ---------------------------- |
+| UX/UI and visual design   | Web interfaces          | Workflow automation          |
+| Branding and presentation | Frontend development    | Digital operations           |
+| User-centred experiences  | Interactive experiences | AI and analytics exploration |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddmdesign7&show_icons=true&theme=radical)
+## 🧰 Tools & Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmdesign7&layout=compact&theme=radical)
+\<div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ddmdesign7&theme=radical)
+### Development & workflow
 
----
+\<img src="[https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,docker,git,github,vscode&perline=10](https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,docker,git,github,vscode\&perline=10)" alt="Development technology icons" />
 
-## 🌐 Let's Connect
+### Creative tools
 
-I'm always interested in collaborating on sales automation, analytics, and revenue scaling projects.
+\<img src="[https://skillicons.dev/icons?i=figma,ps,ai&perline=3](https://skillicons.dev/icons?i=figma,ps,ai\&perline=3)" alt="Creative design tools" />
 
-- 💼 [LinkedIn](#) – Connect with me
-- 🌐 [Portfolio](#) – See my work
-- 📧 **Email:** ddmguru@aol.com
+\</div>
 
----
+\<p align="center">
+&#x20; \<sub>Tools shown reflect my current interests and working toolkit; the stack evolves as I build and learn.\</sub>
+\</p>
 
-<div align="center">
+## 🚀 Selected Digital Work
 
-**Made with ❤️ by Eedris**
+### 🌌 Cosmic Portfolio — Main Portfolio
 
-⭐ If you find my work interesting, consider starring my repos!
+A visual home for my digital identity, creative direction and work.
 
-</div>
+**Explore:** [portfolio-cosmic-v2.great-site.net](https://portfolio-cosmic-v2.great-site.net/)
+
+### ✦ ItzDDM — Creative Portfolio
+
+My creative identity focused on UX/UI, visual communication and thoughtful digital experiences.
+
+**Explore:** [ItzDDM Creative Portfolio](https://dmanifestor.github.io/itz-ddm/index.html)
+
+### ⚙️ DDM Guru — Digital Solutions Initiative
+
+An ongoing digital-business direction exploring online sales operations, customer journeys, automation and connected business workflows.
+
+## 📈 GitHub at a Glance
+
+\<div align="center">
+
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ddmdesign7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=ddmdesign7\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub profile statistics" />
+
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ddmdesign7&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmdesign7\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most used public repository languages" />
+
+\</div>
+
+## 🌱 What I'm Exploring
+
+- AI-assisted digital products and workflows
+- Practical business and sales automation
+- Modern, responsive web experiences
+- User-centred interface design
+- Data-informed digital decision-making
+
+## 🤝 Let's Connect
+
+Have a creative idea, a digital challenge or a project worth building? I'd be glad to connect.
+
+\<div align="center">
+
+&#x20; \<a href="[https://github.com/ddmdesign7](https://github.com/ddmdesign7)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-ddmdesign7-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-ddmdesign7-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+&#x20; \<a href="[https://portfolio-cosmic-v2.great-site.net/](https://portfolio-cosmic-v2.great-site.net/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-Visit-7657E8?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-7657E8?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio" />
+&#x20; \</a>
+&#x20; \<a href="[https://dmanifestor.github.io/itz-ddm/index.html](https://dmanifestor.github.io/itz-ddm/index.html)">
+&#x20;   \<img src="[https://img.shields.io/badge/ItzDDM-Explore-0789A6?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/ItzDDM-Explore-0789A6?style=for-the-badge\&logo=figma\&logoColor=white)" alt="ItzDDM" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:ddmguru\@aol.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Let](https://img.shields.io/badge/Email-Let)'s_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+&#x20; \</a>
+
+\<br />\<br />
+
+**Thanks for visiting my digital space.**
+
+*Creativity has no limits. Innovation has no boundaries.*
+
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:080612,50:30205F,100:087E9B&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:080612,50:30205F,100:087E9B\&height=120\&section=footer)" width="100%" alt="Cosmic footer" />
+
+\</div>
